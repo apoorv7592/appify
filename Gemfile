@@ -25,7 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'paperclip'  #for image/file attachment
 gem 'aws-sdk'    #image storing at amazon s3
-
+gem 'annotate'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
